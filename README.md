@@ -4,7 +4,7 @@
 
 ### 02 Compresiones de Listas
 
-### 03 Zip Objects
+### 03 Zip Objects y Lambda List
 
 ### 04 Enumerates y Loops
 
@@ -13,3 +13,7 @@
 ### 06 Cortar Listas y Secuencias
 
 ### 07 Cortar Cadenas de Texto
+
+### 08 Condicionales cortas
+
+### 09 Maps
