@@ -40,3 +40,8 @@ print(computerResearchers[:])
 # <Nombre Lista>[ : ]
 # Si la posición inicial y final están vacíos, python cogerá todos los elementos de la lista.
 # Devuelve: ['Andrew NG', 'Yann LeCun', 'Yoshua Bengio', 'Carol Reiley', 'Sebastian Thrun', 'Jeff Dean', 'Pieter Abbeel']
+
+print(computerResearchers[::-1])
+# <Nombre Lista> [ : : -1]
+# Se está tomando todos los elementos, pero al tener un salto -1, la lista de muestra en sentido inverso.
+# Devuelve: ['Pieter Abbeel', 'Jeff Dean', 'Sebastian Thrun', 'Carol Reiley', 'Yoshua Bengio', 'Yann LeCun', 'Andrew NG']
