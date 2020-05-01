@@ -1,15 +1,15 @@
-# python_snippets
+# Python Snippets
 
-## 01 Asignaciones múltiples de variables
+### 01 Asignaciones múltiples de variables
 
-## 02 Compresiones de Listas
+### 02 Compresiones de Listas
 
-## 03 Enumerates y bucles
+### 03 Enumerates y bucles
 
-## 04 Zip
+### 04 Zip
 
-## 05 Reversión de Listas
+### 05 Reversión de Listas
 
-## 06 Cortar Listas y Secuencias
+### 06 Cortar Listas y Secuencias
 
-## 07 Cortar Cadenas de Texto
+### 07 Cortar Cadenas de Texto
