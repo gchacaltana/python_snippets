@@ -4,9 +4,9 @@
 
 ### 02 Compresiones de Listas
 
-### 03 Enumerates y bucles
+### 03 Zip Objects
 
-### 04 Zip
+### 04 Enumerates y Loops
 
 ### 05 Reversión de Listas
 
