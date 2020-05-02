@@ -1,6 +1,5 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
-__author__ = "Gonzalo Chacaltana Buleje"
 from statistics import mean
 
 def average(a,b):
