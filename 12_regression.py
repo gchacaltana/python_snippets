@@ -9,7 +9,13 @@ class Application(object):
         self.total_temps = len(self.temps)
         self.temperatures = np.array(self.temps)
         self.alpha = np.array(self.thermal_expansion)
-        
+
+    def execute(self):
+        sum_temps = sum(self.temperatures)
+        sum_alpha = sum(self.alpha)
+        sum_temps_x2 = sum(self.temperatures*self.temperatures)
+        sum_temps_alpha = sum(self.temperatures*self.alpha)
+
 if __name__ == "__main__":
     # data temperatura
     data_temperature = [80, 60, 40, 20, 0, -20, -40, -60, -80, -100, -120, -140, -
