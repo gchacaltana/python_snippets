@@ -15,6 +15,10 @@ class Application(object):
         sum_alpha = sum(self.alpha)
         sum_temps_x2 = sum(self.temperatures*self.temperatures)
         sum_temps_alpha = sum(self.temperatures*self.alpha)
+        avg_temps = sum_temps/self.total_temps
+        avg_alpha = sum_alpha/self.total_temps
+        self.x1 = (sum_temps*sum_alpha - self.total_temps *sum_temps_alpha)/(sum_temps**2-self.total_temps*sum_temps_x2)
+        self.x2 = avg_alpha - self.total_temps*avg_temps
 
 if __name__ == "__main__":
     # data temperatura
